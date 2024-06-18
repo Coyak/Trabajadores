@@ -1,3 +1,5 @@
+import csv
+import funciones as fun
 flag=True
 #Login
 nombre="guest"
@@ -13,7 +15,7 @@ if user_login == nombre and user_passw == passw:
         if opc == 1:
             print("Resgistrar trabajador")
         elif opc == 2:
-            print("Listado de todos los trabajadores")
+            fun.ListadoTrabajadores()
         elif opc == 3:
             print("Plantilla de sueldos")
         elif opc == 4:
