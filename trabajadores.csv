@@ -1,4 +1,4 @@
-Trabajador,Cargo,Sueldo Bruto
-María González,CEO,1000000
-Juan Martínez,Desarrollador,700000
-Ana Sánchez,Analista de datos,600000
+Trabajador,Cargo,Sueldo Bruto,Descuento Salud,Desc. AFP,Liquido a pagar
+María González,CEO,1000000,70.000,100000,830000
+Juan Martínez,Desarrollador,700000,49000,70000,581000
+Ana Sánchez,Analista de datos,600000,42000,60000,498000

@@ -1,0 +1,17 @@
+Puesto: CEO
+Sueldo bruto: 1000000
+Descuento Salud: 7% = 70000
+Desc. AFP: 10% = 100000
+Liquido a pagar: 830000
+
+Puesto: Desarrollador
+Sueldo bruto: 700000
+Descuento Salud: 7% = 49000
+Desc. AFP: 10% = 70000
+Liquido a pagar: 581000
+
+Puesto: Analista de datos
+Sueldo bruto: 600000
+Descuento Salud: 7% = 42000
+Desc. AFP: 10% = 60000
+Liquido a pagar: 498000

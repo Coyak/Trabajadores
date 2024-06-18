@@ -20,16 +20,14 @@ try:
                 elif opc == 2:
                     fun.ListadoTrabajadores()
                 elif opc == 3:
-                    print("Plantilla de sueldos")
-                    print("\nPROXIMAMANTMENTE.....\n")
+                    fun.PlantillaSueldos
                 elif opc == 4:
                     print("Saliendo del programa...")
                     break
-                else:
-                    print("\nIngrese una opcion valida...")
+                
             except Exception as error:
-                    print("\nSe produjo un error: ",error)
+                    print("Se produjo un error: ",error)
     else:
-        print("\nusuario o/y contraseña incorrectos...\nVuelva interntarlo")
+        print("usuario o/y contraseña incorrectos...\nVuelva interntarlo")
 except Exception as error:
-    print("\nSe produjo un error: ",error)
+    print("Se produjo un error: ",error)
