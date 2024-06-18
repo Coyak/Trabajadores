@@ -1,4 +1,4 @@
-"Trabajador","Cargo","Sueldo Bruto"
-"María González","CEO",1000000
-"Juan Martínez","Desarrollador",700000
-"Ana Sánchez","Analista de datos",600000
+Trabajador,Cargo,Sueldo Bruto
+María González,CEO,1000000
+Juan Martínez,Desarrollador,700000
+Ana Sánchez,Analista de datos,600000
